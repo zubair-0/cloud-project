@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: zubair0
+  api_key: '273376887364232'
+  api_secret: DjAibX0-UIW6K6rfQBcrdWl3QzY
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: zubair0
+  api_key: '273376887364232'
+  api_secret: DjAibX0-UIW6K6rfQBcrdWl3QzY
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: zubair0
+  api_key: '273376887364232'
+  api_secret: DjAibX0-UIW6K6rfQBcrdWl3QzY
+  enhance_image_tag: true
+  static_image_support: false
